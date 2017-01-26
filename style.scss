@@ -892,7 +892,7 @@ img {
     margin-bottom: 10px;
 }
 
-@media screen and (max-width: 640px)
+@media screen and (max-width: 640px) {
 .site-avatar {
     float: left;
     display: block;
@@ -904,6 +904,7 @@ img {
 
 .site-info {
   float: left;
+}
 }
 @media screen and (max-width: 640px) {
   .site-info {
